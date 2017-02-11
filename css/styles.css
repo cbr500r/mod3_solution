@@ -1,0 +1,33 @@
+body {
+	font-family: sans-serif;
+}
+
+#dropdown-menu{
+	background-color: #eee;
+	font-size: 1.25em;
+}
+
+.menuItem{
+	background-color: #ddd;
+	min-height: 700px;
+	border:solid 1px black;
+	margin-bottom: 15px;
+	color: #111;
+}
+
+.menuItem p {
+	padding: 10px;
+}
+
+.menuItem h3 {
+	padding-top: 5px;
+}
+
+.menuItem a {
+	font-weight: bolder;
+}
+
+.row{
+	margin-left: 10px;
+	margin-right: 10px;
+}
